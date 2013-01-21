@@ -1,0 +1,15 @@
+--- This file is part of LuaDist project
+
+name = "mobdebug"
+version = "0.51"
+
+desc = "MobDebug allows you control the execution of another Lua program remotely, set breakpoints, and inspect the current state of the program."
+author = "Paul Kulchenko"
+license = "MIT/X11"
+url = "http://github.com/pkulchenko/MobDebug"
+maintainer = "Peter Drahoš"
+
+depends = {
+  "lua >= 5.1",
+  "luasocket >= 2.0"
+}
