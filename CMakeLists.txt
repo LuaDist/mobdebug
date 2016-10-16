@@ -11,4 +11,4 @@ include ( lua )
 
 install_lua_module ( mobdebug src/mobdebug.lua )
 install_example ( examples/ )
-install_doc ( CHANGELOG.md README.md LICENS )
+install_doc ( CHANGELOG.md README.md LICENSE )
